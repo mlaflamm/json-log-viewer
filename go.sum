@@ -33,8 +33,6 @@ github.com/go-playground/validator/v10 v10.27.0 h1:w8+XrWVMhGkxOaaowyKH35gFydVHO
 github.com/go-playground/validator/v10 v10.27.0/go.mod h1:I5QpIEbmr8On7W0TktmJAumgzX4CA1XNl4ZmDuVHKKo=
 github.com/hedhyw/bubbles v0.0.4 h1:4QZeYNa6KcE2CAszgQ07rSk4qd2EDj4FlH9Q3oECq5w=
 github.com/hedhyw/bubbles v0.0.4/go.mod h1:0B5SDVyyRXMteAgJRkYRJQ6bvsKtWdzeepp8rN+RhXQ=
-github.com/hedhyw/fx v0.0.3 h1:JR7w2nR1lWAzJXA5Hsp3pq76tdsG5cYJDC1P+z2eQuY=
-github.com/hedhyw/fx v0.0.3/go.mod h1:km/FnS8aa6d/z086KPzYtYzLv/lWMEnF275IS3wC0jE=
 github.com/hedhyw/jsoncjson v1.1.0 h1:uw/aqmbSXAQNJHDPLb+DpwlPNzMREGIsrs+TIwPk+f0=
 github.com/hedhyw/jsoncjson v1.1.0/go.mod h1:++nXlbEXzRMcqkoDLvH5I/z5qBkacAWSZDt1u6osUPc=
 github.com/hedhyw/semerr v1.0.1 h1:tl2S38sPoD7hLzu0NgFnmcYhIIP47rGZ8lnRZCsljMM=
@@ -56,6 +54,8 @@ github.com/mattn/go-localereader v0.0.1/go.mod h1:8fBrzywKY7BI3czFoHkuzRoWE9C+Ei
 github.com/mattn/go-runewidth v0.0.12/go.mod h1:RAqKPSqVFrSLVXbA8x7dzmKdmGzieGRCM46jaSJTDAk=
 github.com/mattn/go-runewidth v0.0.16 h1:E5ScNMtiwvlvB5paMFdw9p4kSQzbXFikJ5SQO6TULQc=
 github.com/mattn/go-runewidth v0.0.16/go.mod h1:Jdepj2loyihRzMpdS35Xk/zdY8IAYHsh153qUoGf23w=
+github.com/mlaflamm/fx v0.0.0-20251026131103-2fbddcc155d3 h1:x6kBLe3AbkZ+i2h9tkz3AqitDLBwcnXyPIaXpokRuJ0=
+github.com/mlaflamm/fx v0.0.0-20251026131103-2fbddcc155d3/go.mod h1:km/FnS8aa6d/z086KPzYtYzLv/lWMEnF275IS3wC0jE=
 github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6 h1:ZK8zHtRHOkbHy6Mmr5D264iyp3TiX5OmNcI5cIARiQI=
 github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6/go.mod h1:CJlz5H+gyd6CUWT45Oy4q24RdLyn7Md9Vj2/ldJBSIo=
 github.com/muesli/cancelreader v0.2.2 h1:3I4Kt4BQjOR54NavqnDogx/MIoWBFa0StPA8ELUXHmA=
